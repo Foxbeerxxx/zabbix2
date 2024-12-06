@@ -67,6 +67,7 @@
 
 2. `Имя TestPanelTatarincev`
 ![14](https://github.com/Foxbeerxxx/zabbix2/blob/main/img/img14.jpg)`
+
 3. `Поместил на него нагрузку по оперативной памяти, нагрузку по процессору, список проблем (критичные и важные) на хосте Tatarincev1 и время`
 ![15](https://github.com/Foxbeerxxx/zabbix2/blob/main/img/img15.jpg)`
 
