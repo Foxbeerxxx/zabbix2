@@ -54,7 +54,7 @@
 2. `Прикрепленный к нему  шаблон Linux by Zabbix Agent и мой Test load Ram`
 ![11](https://github.com/Foxbeerxxx/zabbix2/blob/main/img/img11.jpg)`
 
-3. `Все значения тянет, мой Item пишет что Ivalid first parametr`
+3. `Все значения тянет, мой Item пишет что параметр не найден, остальные все подтягиваются `
 ![12](https://github.com/Foxbeerxxx/zabbix2/blob/main/img/img12.jpg)`
 
 
