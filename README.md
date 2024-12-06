@@ -35,7 +35,12 @@
 3. `добавляем Item - Test CPU LOAD`
 ![3](https://github.com/Foxbeerxxx/zabbix2/blob/main/img/img3.jpg)`
 
-4. `Заполните здесь этапы выполнения, если требуется ....`
+![4](https://github.com/Foxbeerxxx/zabbix2/blob/main/img/img4.jpg)`
+
+4. `Создаю Item по загрузке Ram.`
+![5](https://github.com/Foxbeerxxx/zabbix2/blob/main/img/img5.jpg)`
+
+
 5. `Заполните здесь этапы выполнения, если требуется ....`
 6. 
 
